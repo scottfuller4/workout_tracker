@@ -1,0 +1,17 @@
+.info {
+    padding: 100px 0;
+    background: white;
+}
+
+.addInfoContainer {
+    display: flex;
+    background: firebrick;
+    padding: 20px 0;
+}
+
+.addInfo {
+    display: flex;
+    width: 33.33%;
+    flex-direction: column;
+    margin: 0 10px;
+}
